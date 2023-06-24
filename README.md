@@ -11,11 +11,11 @@ About Me
 
 ### Skills
 
-    Advanced knowledge: Wolfram Mathematica, Python, LaTeX
-        Mathematica library: [Melt!](https://melt1.notion.site/)
-        Python libraries: Qutip, Pandas, Numpy, Scipy, Sympy, scikit-learn
+Advanced knowledge: Wolfram Mathematica, Python, LaTeX
+    Mathematica library: [Melt!](https://melt1.notion.site/)
+    Python libraries: Qutip, Pandas, Numpy, Scipy, Sympy, scikit-learn
         
-    Languages: Portuguese (mother tongue), English (fluent), French (fluent), Spanish (basic knowledge)
+Languages: Portuguese (mother tongue), English (fluent), French (fluent), Spanish (basic knowledge)
 
 ### Research and Work Experience
 
@@ -39,12 +39,12 @@ I'm not just a physicist! Here are some of my other interests and hobbies:
     💡 Other interests: linguistics, philosophy, history, pure mathematics, and finances
 
 ### Publications and Presentations
-  You may find my list of publication in my [Google Scholar](https://scholar.google.com/citations?hl=fr&user=Hq4mgYkAAAAJ)
+  You may find my list of my publications in my [Google Scholar](https://scholar.google.com/citations?hl=fr&user=Hq4mgYkAAAAJ)
 
 ### Contact Me
 
-    📧 [b.ortega.goes@gmail.com](b.ortega.goes@gmail.com)
-    🌐 [LinkedIn](https://www.linkedin.com/in/bruno-ortega-goes-271b36175/)
+📧 [b.ortega.goes@gmail.com](b.ortega.goes@gmail.com)
+🌐 [LinkedIn](https://www.linkedin.com/in/bruno-ortega-goes-271b36175/)
 
 Feel free to explore my projects and repositories here on GitHub. If you have any questions, collaborations, or opportunities, don't hesitate to reach out. Let's connect and make exciting contributions together!
 
