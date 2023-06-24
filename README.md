@@ -5,14 +5,16 @@ I am a theoretical physicist specialized in quantum information, with a keen int
 Welcome to my GitHub profile! Here, you'll find a collection of my projects, research work, and contributions spanning the fields of physics and data science.
 About Me
 
-    🎓 Ph.D. in Physics, Specialization in Nanophysics from Université de Grenoble Alpes, France (2023)
-    🎓 Master's Degree in Physics from the University of Sao Paulo, Brazil (2020)
-    🎓 Bachelor's Degree in Physics from the University of Sao Paulo, Brazil (2018)
+ 🎓 Ph.D. in Physics, Specialization in Nanophysics from Université de Grenoble Alpes, France (2023)
+ 🎓 Master's Degree in Physics from the University of Sao Paulo, Brazil (2020)
+🎓 Bachelor's Degree in Physics from the University of Sao Paulo, Brazil (2018)
 
 ### Skills
 
 Advanced knowledge: Wolfram Mathematica, Python, LaTeX
+
     Mathematica library: [Melt!](https://melt1.notion.site/)
+    
     Python libraries: Qutip, Pandas, Numpy, Scipy, Sympy, scikit-learn
         
 Languages: Portuguese (mother tongue), English (fluent), French (fluent), Spanish (basic knowledge)
@@ -38,12 +40,13 @@ I'm not just a physicist! Here are some of my other interests and hobbies:
     🎲 Enjoying board games with friends and family
     💡 Other interests: linguistics, philosophy, history, pure mathematics, and finances
 
-### Publications and Presentations
+### Publications 
   You may find my list of my publications in my [Google Scholar](https://scholar.google.com/citations?hl=fr&user=Hq4mgYkAAAAJ)
 
 ### Contact Me
 
 📧 [b.ortega.goes@gmail.com](b.ortega.goes@gmail.com)
+
 🌐 [LinkedIn](https://www.linkedin.com/in/bruno-ortega-goes-271b36175/)
 
 Feel free to explore my projects and repositories here on GitHub. If you have any questions, collaborations, or opportunities, don't hesitate to reach out. Let's connect and make exciting contributions together!
