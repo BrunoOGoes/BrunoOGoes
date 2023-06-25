@@ -1,6 +1,6 @@
 ### Hello world! 👋 I'm Bruno 
 
-I am a theoretical physicist specialized in quantum information, with a keen interest in photonic quantum technologies and quantum thermodynamics. After years in academia, I shifted my interest to data science, driven by my multidisciplinary profile and deep appreciation for mathematical models that uncover patterns in data, enabling exploration of the physical world, society, and beyond. I wish to take advantage of my advanced mathematical and programming skills to propose models for business success, derive insights, and develop effective data solutions.
+I am a theoretical physicist specialized in quantum information, with a keen interest in open quantum systems and applications to photonic quantum technologies and quantum thermodynamics. 
 
 Welcome to my GitHub profile! Here, you'll find a collection of my projects, research work, and contributions spanning the fields of physics and data science.
 About Me
@@ -15,9 +15,9 @@ About Me
 
 Advanced knowledge: Wolfram Mathematica, Python, LaTeX
 
-Mathematica library: [Melt!](https://melt1.notion.site/)
+    Mathematica library: [Melt!](https://melt1.notion.site/)
 
-Python libraries: Qutip, Pandas, Numpy, Scipy, Sympy, scikit-learn
+    Python libraries: Qutip, Pandas, Numpy, Scipy, Sympy, scikit-learn
         
 Languages: Portuguese (mother tongue), English (fluent), French (fluent), Spanish (basic knowledge)
 
@@ -41,15 +41,9 @@ I'm not just a physicist! Here are some of my other interests and hobbies:
  
  👨‍🍳 Cooking and experimenting with new dishes
  
- ☕ Coffee and tea enthusiast
- 
- 🎭 Theater enthusiast
- 
  🎵 Music lover, from classical to R&B
  
  🌐 Learning languages and embracing different cultures
- 
- 🎲 Enjoying board games with friends and family
  
  💡 Other interests: linguistics, philosophy, history, pure mathematics, and finances
 
