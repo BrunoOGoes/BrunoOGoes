@@ -13,11 +13,10 @@ About Me
 
 ### Skills
 
-Advanced knowledge: Wolfram Mathematica, Python, LaTeX
-
-    Mathematica library: [Melt!](https://melt1.notion.site/)
-
-    Python libraries: Qutip, Pandas, Numpy, Scipy, Sympy, scikit-learn
+Advanced knowledge: Wolfram Mathematica, Python
+I work mainly with the following libraries:
+Mathematica: [Melt!](https://melt1.notion.site/)
+Python: Qutip, Pandas, Numpy, Scipy, Sympy, scikit-learn
         
 Languages: Portuguese (mother tongue), English (fluent), French (fluent), Spanish (basic knowledge)
 
