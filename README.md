@@ -17,9 +17,9 @@ Advanced knowledge: Wolfram Mathematica, Python.
 
 I work mainly with the following libraries:
 
-Mathematica: [Melt!](https://melt1.notion.site/)
-
 Python: Qutip, Pandas, Numpy, Scipy, Sympy, scikit-learn
+
+Mathematica: [Melt!](https://melt1.notion.site/)
         
 Languages: Portuguese (mother tongue), English (fluent), French (fluent), Spanish (basic knowledge)
 
@@ -51,7 +51,7 @@ I'm not just a physicist! Here are some of my other interests and hobbies:
 
 ### Publications 
 
-You may find my list of my publications in my [Google Scholar](https://scholar.google.com/citations?hl=fr&user=Hq4mgYkAAAAJ)
+You may find my list of my publications in my [Google Scholar](https://scholar.google.com/citations?hl=fr&user=Hq4mgYkAAAAJ) or my [OrcId](https://orcid.org/0000-0001-9447-3930).
 
 ### Contact Me
 
