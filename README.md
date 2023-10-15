@@ -1,6 +1,6 @@
-### Hello world! 👋 I'm Bruno 
+### $\langle B\vert \hat{O}\vert G\rangle$
 
-I am a theoretical physicist specialized in quantum information, with a keen interest in open quantum systems and applications to quantum technologies and quantum thermodynamics. 
+I am a theoretical physicist specializing in quantum information, with a keen interest in open quantum systems and applications to quantum technologies and quantum thermodynamics. 
 
 Welcome to my GitHub profile! Here, you'll find a collection of my projects, research work, and contributions spanning the fields of physics and data science.
 About Me
