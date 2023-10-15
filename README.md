@@ -9,7 +9,7 @@ About Me
 
 🎓 Master's Degree in Physics from the University of Sao Paulo, Brazil (2020)
 
-🎓 Bachelor's Degree in Physics from the University of Sao Paulo, Brazil (2018)
+🎓 Bachelor's Degree in Physics from the University of Sao Paulo, Brazil (2018) $\langle B\vert \hat{O}\vert G\rangle$
 
 ### Skills
 
