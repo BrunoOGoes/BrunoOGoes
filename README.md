@@ -55,7 +55,7 @@ You may find my list of my publications in my [Google Scholar](https://scholar.g
 
 ### Contact Me
 
-🌐 [LinkedIn](https://www.linkedin.com/in/bruno-ortega-goes-271b36175/)
+🌐 [LinkedIn](https://www.linkedin.com/in/bruno-o-goes/)
 
 Feel free to explore my projects and repositories here on GitHub. If you have any questions, collaborations, or opportunities, don't hesitate to reach out. Let's connect and make exciting contributions together!
 
