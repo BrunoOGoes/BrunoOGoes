@@ -1,6 +1,6 @@
-### Welcome!
+### Hello world!
 
-I am a theoretical physicist specializing in quantum information, with a keen interest in open quantum systems and applications to quantum technologies and quantum thermodynamics. 
+I am Bruno Ortega Goes, currently a research and development engineer working on algorithm development for feature detection and metrology in images. I have been trained as a theoretical physicist with a focus on quantum technologies, I have a strong knowledge of the open quantum systems framework, its applications to quantum technologies, and quantum thermodynamics and computational simulations of such systems. In addition to this formal training, I also have a deep interest in the applications of the mathematical and data analysis tools of physics to other domains, this led me to study machine learning with a focus on data science and recently I have been interested in computer vision models and applications. 
 
 Welcome to my GitHub profile! Here, you'll find a collection of my projects, research work, and contributions spanning the fields of physics and data science.
 About Me
@@ -23,40 +23,19 @@ Mathematica: [Melt!](https://melt1.notion.site/)
         
 Languages: Portuguese (mother tongue), English (fluent), French (fluent), Spanish (basic knowledge)
 
-### Research and Work Experience
+### Work Experience
+
+💼 Consultant/Research and development engineer at Lennatech, France (Since February 2024)
 
 💼 Early Stage Researcher at Qudoth Tech (Marie Curie Actions) and Ph.D. Researcher at CNRS, France (2020-2023)
 
-👨‍🏫 Teaching Assistant in Statistical Mechanics (Graduate) at Physics Institute, University of São Paulo, Brazil (Aug. to Dec. 2019)
-
-👨‍🏫 Teaching Assistant in Electricity and Magnetism (Undergraduate) at Physics Institute, University of São Paulo, Brazil (Jan. to Jul. 2019)
-
-👨‍🏫 Teaching Assistant in Introduction to Quantum Physics (Undergraduate) at Physics Institute, University of São Paulo, Brazil (Jul. 2017 to Dec. 2018)
-
-### Interests and Hobbies
-
-I'm not just a physicist! Here are some of my other interests and hobbies:
-
- 📚 Reading, with a special interest in Russian and Portuguese literature (Tolstoy, Dostoevsky, Saramago)
- 
- ⛰️ Hiking and exploring the great outdoors
- 
- 👨‍🍳 Cooking and experimenting with new dishes
- 
- 🎵 Music lover, from classical to R&B
- 
- 🌐 Learning languages and embracing different cultures
- 
- 💡 Other interests: linguistics, philosophy, history, pure mathematics, and finances
 
 ### Publications 
 
-You may find my list of my publications in my [Google Scholar](https://scholar.google.com/citations?hl=fr&user=Hq4mgYkAAAAJ) or my [OrcId](https://orcid.org/0000-0001-9447-3930).
+You may find the list of my publications in my [Google Scholar](https://scholar.google.com/citations?hl=fr&user=Hq4mgYkAAAAJ) or my [OrcId](https://orcid.org/0000-0001-9447-3930).
 
 ### Contact Me
 
 🌐 [LinkedIn](https://www.linkedin.com/in/bruno-o-goes/)
 
-Feel free to explore my projects and repositories here on GitHub. If you have any questions, collaborations, or opportunities, don't hesitate to reach out. Let's connect and make exciting contributions together!
-
-Enjoy your visit! 😄
+Feel free to explore my projects and repositories here on GitHub. If you have any questions, suggestions, collaborations, or opportunities, don't hesitate to reach out. 
