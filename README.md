@@ -41,3 +41,5 @@ You may find the list of my publications in my [Google Scholar](https://scholar.
 🌐 [LinkedIn](https://www.linkedin.com/in/bruno-o-goes/)
 
 Feel free to explore my projects and repositories here on GitHub. If you have any questions, suggestions, collaborations, or opportunities, don't hesitate to reach out. 
+
+\langle B| O|G\rangle
