@@ -1,6 +1,8 @@
 ### Hello world!
 
-I am Bruno Ortega Goes, currently a research and development engineer working on algorithm development for feature detection and metrology in images. I have been trained as a theoretical physicist with a focus on quantum technologies, I have a strong knowledge of the open quantum systems framework, its applications to quantum technologies, and quantum thermodynamics and computational simulations of such systems. In addition to this formal training, I also have a deep interest in the applications of the mathematical and data analysis tools of physics to other domains, this led me to study machine learning with a focus on data science and recently I have been interested in computer vision models and applications. 
+I am Bruno Ortega Goes, currently a research and development engineer working on algorithm development at Applied Materials. 
+
+I have been trained as a theoretical physicist with a focus on quantum technologies, I have a strong knowledge of the open quantum systems framework, its applications to quantum technologies, and quantum thermodynamics and computational simulations of such systems. In addition to this formal training, I also have a deep interest in the applications of the mathematical and data analysis tools of physics to other domains, this led me to study machine learning with a focus on data science and recently I have been interested in computer vision models and applications. 
 
 Welcome to my GitHub profile! Here, you'll find a collection of my projects, research work, and contributions spanning the fields of physics and data science.
 About Me
