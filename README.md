@@ -1,4 +1,4 @@
-### Hello world!
+### Hello!
 
 I am Bruno Ortega Goes, currently a research and development engineer working on algorithm development at Applied Materials. 
 
